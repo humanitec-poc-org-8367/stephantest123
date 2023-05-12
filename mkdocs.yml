@@ -1,0 +1,7 @@
+site_name: 'stephantest123 Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
